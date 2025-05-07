@@ -16,17 +16,17 @@ This section documents the Git commands and screenshots for the assignment.
 
 ### Screenshots
 - ![Git Clone](gitimages/gitclone.png)
-- ![Git Status](gitimages/gitstatus.png)
+- ![Git Status](gitimages/gitaddstatus.png)
 - ![Git Add](gitimages/gitindexhtml.png)
 - ![Git Commit](gitimages/gitcomment1.png)
 - ![Git Remote](gitimages/gitRemote.png)
 - ![Git Push](gitimages/pushorigin.png)
-- ![GitHub Dashboard](gitimages/Gitdashboard.png)
-- ![Git Main comment](gitimages/Gitcomment1.png)
+- ![GitHub Dashboard](gitimages/gitDashboard.png)
+- ![Git Main website](gitimages/gitweb.png)
 - ![Git clone](gitimages/gitclone.png)
-- ![Git Remote](gitimages/gitRemote.png)
-- ![Git Push](gitimages/gitcheckout.png)
-- ![Git Add](gitimages/gitindexhtml.png)
+- ![Git clone repo](gitimages/gitclone.png)
+- ![Git checkout](gitimages/gitcheckout.png)
+- ![Git commit](gitimages/gitindexhtml.png)
 - ![Git tom comment](gitimages/gitcomment1.png)
 - ![Git jerry comment](gitimages/gitcomment1.png)
 - ![Git more comment](gitimages/gitcomment2.png)
@@ -42,7 +42,7 @@ This section documents the Git commands and screenshots for the assignment.
 - ![Git website](gitimages/gitweb.png)
 - ![Git download](gitimages/gitdownload.png)
 - ![Git push](gitimages/gitposh.png)
-- ![Git dashoard](gitimages/Gitdashboard.png)
+- ![Git dashoard](gitimages/gitDashboard.png)
 
 ### Repository URL
 [https://github.com/Dowlib1/Chidi-AI-Startup](https://github.com/Dowlib1/Chidi-AI-Startup)
