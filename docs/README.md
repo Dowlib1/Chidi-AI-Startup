@@ -16,12 +16,12 @@ This section documents the Git commands and screenshots for the assignment.
 
 ### Screenshots
 - ![Git Clone](gitimages/gitclone.png)
-- ![Git Status](gitimages/gitStatus.png)
+- ![Git Status](gitimages/gitstatus.png)
 - ![Git Add](gitimages/gitindexhtml.png)
 - ![Git Commit](gitimages/gitcomment1.png)
 - ![Git Remote](gitimages/gitRemote.png)
 - ![Git Push](gitimages/pushorigin.png)
-- ![GitHub Dashboard](gitimges/Gitdashboard.png)
+- ![GitHub Dashboard](gitimages/Gitdashboard.png)
 - ![Git Main comment](gitimages/Gitcomment1.png)
 - ![Git clone](gitimages/gitclone.png)
 - ![Git Remote](gitimages/gitRemote.png)
@@ -42,7 +42,7 @@ This section documents the Git commands and screenshots for the assignment.
 - ![Git website](gitimages/gitweb.png)
 - ![Git download](gitimages/gitdownload.png)
 - ![Git push](gitimages/gitposh.png)
-- ![Git dashoard](gitimages/GitDashboard.png)
+- ![Git dashoard](gitimages/Gitdashboard.png)
 
 ### Repository URL
 [https://github.com/Dowlib1/Chidi-AI-Startup](https://github.com/Dowlib1/Chidi-AI-Startup)
