@@ -1,9 +1,53 @@
 markdown
-# Chidi-AI-Startup Screenshots
+# Chidi-AI-Startup Pull requests, push, merge and conflict in git main and branches using TOM and Jerry as branch example.
+
+## Collaboration Workflow
+
+This documents the Git collaboration workflow for Tom and Jerry’s contributions (May 2025).
+
+### Tom’s Contribution
+- **Branch**: `tom-feature`
+- **Changes**: Added welcome message to `index.html, using 'clone .' git add . , git commit, git pull, git pull, git checkout tom,git push origin tom-feature etc`.
+- **PR-Pull request**: [Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
+- **PR-Pull request**: [Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimages/merg/mergeconf1.png)
+- **PR**: [Tom’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
+- **Screenshots**: (https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimages/merg/TomPullStep1.png)
+- **Screenshots**:
+ - [PR Creation](Mergeimages/merg/mergeconf1.png)
+   - [PR Creation](Mergeimages/merg/TomPullStep2.png)
+   - [PR Creation](Mergeimages/merg/TomPullStep3.png)
+   - [PR Creation](Mergeimages/merg/TomPullStep4.png)
+  - [PR Creation](Mergeimages/merg/PULLC.png)
+  - [Merge Confirmation](Mergeimages/merg/Tompullstep1.png)
+  - [Update welcome message - [Merge Confirmation](Mergeimages/merg/Tompullstep1.png)
+
+### Jerry’s Contribution
+- **Branch**: `jerry-feature`
+- **Changes**: Added contact link, resolved conflict.
+- **PR**: [Jerry’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/)
+- **Screenshots**:
+  - [PR Creation] - [Jerry Checkout Jerry](Mergeimages/merg/mergeconf.png)
+  - [PR Creation] - [Resolve Jerry push using git 'rebase'](Mergeimages/merg/pullconf.png)
+  - [PR Creation] - [Merge Confirmation](Mergeimages/merg/Jerry.png)
+  - [PR Creation] - [Merge Confirmation](Mergeimages/merg/Jerry1.png)
+  - [PR Creation] - [Merge Confirmation](Mergeimages/merg/Jerry2.png)- [PR Creation] - [Merge Confirmation](Mergeimages/merg/Jerry3.png)
+- [PR Creation] - [Merge Confirmation](Mergeimages/merg/Jerry4.png)
+- [PR Confirmation] - [Merge Confirmation](Mergeimages/merg/Jerryconfirm.png)
+- [PR Creation] - [Merge successful](Mergeimages/merg/Jerrysuc.png)
+- [PR Creation] - [Mergr conflict steps](Mergeimages/merg/conflict.png)
+  - [Merge Confirmation on main branch -b](Mergeimages/pullconf.png)
+  - [merge- branch Conflict Resolution using nano index.html](Mergeimages/merg/pullconflict.png)
+  - [PR Creation] - [Mergr conflict steps](Mergeimages/merg/mergeconf1.png)
+  - [PR Creation] - [Mergr conflict steps](Mergeimages/merg/mergeconf.png)
+  - [PR Creation] - [Mergr conflict steps](Mergeimages/merg/Conflict2.png)
+  - [PR Creation] - [Mergr conflict steps](Mergeimages/merg/mergeconf.png)
+
 
 This section documents all images in the `docs/gitimages/` directory, showcasing features and updates for the Chidi-AI-Startup project.
 
 ## Screenshots
+
+
 
 - **Git Dashboard**: Overview of the repository dashboard.
   ![Git Dashboard](docs/gitimages/GItDashboard.png)
