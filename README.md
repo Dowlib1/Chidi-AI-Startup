@@ -13,10 +13,10 @@ This documents the Git collaboration workflow for Tom and Jerry’s contribution
 - **PR**: [Tom’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
 - **Screenshots**: (https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimages/merg/TomPullStep1.png)
 - **Screenshots**:
- - ![PR Creation](Mergeimages/merg/mergeconf1.png)
-   - ![PR Creation](Mergeimages/merg/TomPullStep2.png)
+ - ![PR Creation](docs/Mergeimages/merg/mergeconf1.png)
+   - ![PR Creation](docs/Mergeimages/merg/TomPullStep2.png)
    - ![PR Creation](Mergeimages/merg/TomPullStep3.png)
-   - ![PR Creation](Mergeimages/merg/TomPullStep4.png)
+   - ![PR Creation](docs/Mergeimages/merg/TomPullStep4.png)
   - ![PR Creation](Mergeimages/merg/PULLC.png)
   - ![Merge Confirmation](Mergeimages/merg/Tompullstep1.png)
   - ![Update welcome message - [Merge Confirmation](Mergeimages/merg/Tompullstep1.png)
