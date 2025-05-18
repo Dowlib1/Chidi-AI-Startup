@@ -45,3 +45,19 @@ This section documents all images in the `docs/gitimages/` directory, showcasing
   ![Git Web](docs/gitimages/gitweb.png)
 - **Push Origin**: Pushing changes to origin.
   ![Push Origin](docs/gitimages/pushorigin.png)
+  - **Merge Navigation Update**: Updated navigation UI.
+  ![Merge Navigation Update](mergeimages/Commentmerge.png)
+- **Merge Contact Info**: Enhanced contact section.
+  ![Merge Contact Info](mergeimages/ConfirmMerge.png)
+  - **Merge Navigation Update**: Updated navigation UI.
+  ![Merge Navigation Update](mergeimages/gitcommerge.png)
+- **Merge Contact Info**: Enhanced contact section.
+  ![Merge Contact Info](mergeimages/mergecompare.png)
+  - **Merge Navigation Update**: Updated navigation UI.
+  ![Merge Navigation Update](mergeimages/Mergepull.png)
+- **Merge Contact Info**: Enhanced contact section.
+  ![Merge Contact Info](mergeimages/pullrequest.png)
+  - **Merge Navigation Update**: Updated navigation UI.
+  ![Merge Navigation Update](mergeimages/PULL.png)
+- **Merge Contact Info**: Enhanced contact section.
+  ![Merge Contact Info](mergeimages/MPULL.png)
