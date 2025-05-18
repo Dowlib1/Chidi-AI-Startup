@@ -48,16 +48,20 @@ This section documents all images in the `docs/gitimages/` directory, showcasing
   - **Merge Navigation Update**: Updated navigation UI.
   ![Merge Navigation Update](mergeimages/Commentmerge.png)
 - **Merge Contact Info**: Enhanced contact section.
-  ![Merge Contact Info](mergeimages/ConfirmMerge.png)
+  ![Merge Contact Info](Mergeimages/ConfirmMerge.png)
   - **Merge Navigation Update**: Updated navigation UI.
-  ![Merge Navigation Update](mergeimages/gitcommerge.png)
+  ![Merge Navigation Update](Mergeimages/gitcommerge.png)
 - **Merge Contact Info**: Enhanced contact section.
   ![Merge Contact Info](mergeimages/mergecompare.png)
   - **Merge Navigation Update**: Updated navigation UI.
-  ![Merge Navigation Update](mergeimages/Mergepull.png)
+  ![Merge Navigation Update](Mergeimages/Mergepull.png)
 - **Merge Contact Info**: Enhanced contact section.
-  ![Merge Contact Info](mergeimages/pullrequest.png)
+  ![Merge Contact Info](Mergeimages/pullrequest.png)
   - **Merge Navigation Update**: Updated navigation UI.
-  ![Merge Navigation Update](mergeimages/PULL.png)
+  ![Merge Navigation Update](Mergeimages/PULL.png)
 - **Merge Contact Info**: Enhanced contact section.
-  ![Merge Contact Info](mergeimages/MPULL.png)
+  ![Merge Contact Info](Mergeimages/CPULL.png)
+
+    ![Merge Navigation Update](Mergeimages/PULLC.png)
+- **Merge Contact Info**: Enhanced contact section.
+  ![Merge Contact Info](Mergeimages/CPULL.png)
