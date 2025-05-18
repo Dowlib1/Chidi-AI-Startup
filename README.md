@@ -8,9 +8,11 @@ This documents the Git collaboration workflow for Tom and Jerry’s contribution
 ### Tom’s Contribution
 - **Branch**: `tom-feature`
 - **Changes**: Added welcome message to `index.html, using 'clone .' git add . , git commit, git pull, git pull, git checkout tom,git push origin tom-feature etc`.
-- ![**PR-Pull request** Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
-- **PR-Pull request atep by step**: ![Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimage/merg/mergeconf1.png)
-- **PR**: [Tom’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
+- **PR-Pull request**
+- ![Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
+- **PR-Pull request atep by step**:
+- ![Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimage/merg/mergeconf1.png)
+- **PR-Pull Request**: [Tom’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
 - **Screenshots**: (https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimages/merg/TomPullStep1.png)
 - **Screenshots**:
  - ![PR Creation](Mergeimage/merg/mergeconf1.png)
@@ -35,7 +37,7 @@ This documents the Git collaboration workflow for Tom and Jerry’s contribution
 - ![PR Confirmation Merge Confirmation](Mergeimage/merg/Jerryconfirm.png)
 - ![PR Creation Merge successful](Mergeimage/merg/Jerrysuc.png)
 - ![PR Creation Merge conflict steps](Mergeimage/merg/conflict.png)
- - ![Merge Confirmation on main branch -b](Mergeimage/pullconf.png)
+ - ![Merge Confirmation on main branch](Mergeimage/pullconf.png)
  - ![merge- branch Conflict Resolution using nano index.html](Mergeimage/merg/pullconflict.png)
  - ![PR Creation Merg conflict compare](Mergeimage/merg/mergeconf1.png)
  - ![PR Creation Merge conflict compare](Mergeimage/merg/mergeconf.png)
