@@ -9,38 +9,39 @@ This documents the Git collaboration workflow for Tom and Jerry’s contribution
 - **Branch**: `tom-feature`
 - **Changes**: Added welcome message to `index.html, using 'clone .' git add . , git commit, git pull, git pull, git checkout tom,git push origin tom-feature etc`.
 - **PR-Pull request**: ![Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
-- **PR-Pull request atep by step**: ![Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimages/merg/mergeconf1.png)
+- **PR-Pull request atep by step**: ![Tom’s git bash code](https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimage/merg/mergeconf1.png)
 - **PR**: [Tom’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/pull/)
 - **Screenshots**: (https://github.com/Dowlib1/Chidi-AI-Startup/Mergeimages/merg/TomPullStep1.png)
 - **Screenshots**:
- - ![PR Creation](docs/Mergeimages/merg/mergeconf1.png)
-   - ![PR Creation](docs/Mergeimages/merg/TomPullStep2.png)
-   - ![PR Creation](Mergeimages/merg/TomPullStep3.png)
-   - ![PR Creation](docs/Mergeimages/merg/TomPullStep4.png)
-  - ![PR Creation](Mergeimages/merg/PULLC.png)
-  - ![Merge Confirmation](Mergeimages/merg/Tompullstep1.png)
-  - ![Update welcome message - [Merge Confirmation](Mergeimages/merg/Tompullstep1.png)
+ - ![PR Creation](docs/Mergeimage/merg/mergeconf1.png)
+   - ![PR Creation](docs/Mergeimage/merg/TomPullStep2.png)
+   - ![PR Creation](Mergeimage/merg/TomPullStep3.png)
+   - ![PR Creation](docs/Mergeimage/merg/TomPullStep4.png)
+  - ![PR Creation](Mergeimage/merg/PULLC.png)
+  - ![Merge Confirmation](Mergeimage/merg/Tompullstep1.png)
+  - ![Update welcome message - [Merge Confirmation](Mergeimage/merg/Tompullstep1.png)
 
 ### Jerry’s Contribution
 - **Branch**: `jerry-feature`
 - **Changes**: Added contact link, resolved conflict.
 - **PR**: [Jerry’s PR](https://github.com/Dowlib1/Chidi-AI-Startup/)
 - **Screenshots**:
-  - ![PR Creation Jerry Checkout Jerry](Mergeimages/merg/mergeconf.png)
-  - ![PR Creation Resolve Jerry push using git 'rebase'](Mergeimages/merg/pullconf.png)
-  - ![PR Creation Merge ](Mergeimages/merg/Jerry.png)
-  - ![PR Creation Merge Compare](Mergeimages/merg/Jerry1.png)
-  - ![PR Creation Merge Comment](Mergeimages/merg/Jerry2.png)- [PR Creation] - [Merge Confirmation](Mergeimages/merg/Jerry3.png)
-- ![PR Creation Merge Pre-Confirmation](Mergeimages/merg/Jerry4.png)
-- ![PR Confirmation Merge Confirmation](Mergeimages/merg/Jerryconfirm.png)
-- ![PR Creation Merge successful](Mergeimages/merg/Jerrysuc.png)
-- ![PR Creation Merge conflict steps](Mergeimages/merg/conflict.png)
-  - ![Merge Confirmation on main branch -b](Mergeimages/pullconf.png)
-  - ![merge- branch Conflict Resolution using nano index.html](Mergeimages/merg/pullconflict.png)
-  - ![PR Creation Merg conflict compare](Mergeimages/merg/mergeconf1.png)
-  - ![PR Creation Merge conflict compare](Mergeimages/merg/mergeconf.png)
-  - ![PR Creation Merge conflict resolve](Mergeimages/merg/Conflict2.png)
-  - ![PR Creation  Merge conflict steps](Mergeimages/merg/mergeconf.png)
+  - ![PR Creation Jerry Checkout Jerry](Mergeimage/merg/mergeconf.png)
+  - ![PR Creation Resolve Jerry push using git 'rebase'](Mergeimage/merg/pullconf.png)
+  - ![PR Creation Merge ](Mergeimage/merg/Jerry.png)
+  - ![PR Creation Merge Compare](Mergeimage/merg/Jerry1.png)
+  - ![PR Creation Merge Comment](Mergeimage/merg/Jerry2.png)- [PR Creation]
+  - ![Merge Confirmation](Mergeimage/merg/Jerry3.png)
+- ![PR Creation Merge Pre-Confirmation](Mergeimage/merg/Jerry4.png)
+- ![PR Confirmation Merge Confirmation](Mergeimage/merg/Jerryconfirm.png)
+- ![PR Creation Merge successful](Mergeimage/merg/Jerrysuc.png)
+- ![PR Creation Merge conflict steps](Mergeimage/merg/conflict.png)
+  - ![Merge Confirmation on main branch -b](Mergeimage/pullconf.png)
+  - ![merge- branch Conflict Resolution using nano index.html](Mergeimage/merg/pullconflict.png)
+  - ![PR Creation Merg conflict compare](Mergeimage/merg/mergeconf1.png)
+  - ![PR Creation Merge conflict compare](Mergeimage/merg/mergeconf.png)
+  - ![PR Creation Merge conflict resolve](Mergeimage/merg/Conflict2.png)
+  - ![PR Creation  Merge conflict steps](Mergeimage/merg/mergeconf.png)
 
 
 This section documents all images in the `docs/gitimages/` directory, showcasing features and updates for the Chidi-AI-Startup project.
